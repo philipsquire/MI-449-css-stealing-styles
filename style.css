@@ -40,6 +40,7 @@ span:nth-child(6){
     border-radius: 3px;
     box-shadow: none;
     vertical-align: bottom;
+    box-sizing: border-box;
 }
 
 .searchbar:focus{
